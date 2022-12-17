@@ -6,7 +6,7 @@ int main()
     clrscr();
     
     int principle;
-    printf("Enter The  Principle Value:");
+    printf("Enter The Principle Value:");
     scanf("%d",&principle);
     
     int rate;
