@@ -6,7 +6,7 @@ int main()
     clrscr();
     int a=10;
     printf("Before Increment %d\n",a);
-    a++'
+    a++;
     printf("After Increment %d",a);
     a--;
     printf("After Decrement %d",a);
